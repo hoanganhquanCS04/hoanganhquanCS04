@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1A2980,100:26D0CE&text=Hoang%20Anh%20Quan&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Computer%20Science%20%40%20PTIT%20%7C%20LLM%20%26%20RAG%20Builder&descAlignY=58&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1A2980,100:26D0CE&text=Hoang%20Anh%20Quan&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Computer%20Science%20%40%20PTIT%20%7C%20LLM%20and%20RAG%20Builder&descAlignY=58&descSize=16"/>
 
 <a href="https://github.com/hoanganhquanCS04">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&center=true&vCenter=true&width=900&color=26D0CE&lines=AI+Engineer+from+Hanoi%2C+Vietnam.;Retrieval-Augmented+Generation+(RAG);LLM+Agents+%26+Multi-Agent+Systems.;Distributed+NLP+on+HPC+clusters.;Turning+ideas+into+working+AI+products."/>
