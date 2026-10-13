@@ -72,7 +72,7 @@ Interests   : LLM • RAG • AI Agents • NLP • Recommender Systems
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [VinRobotics Slide RAG](https://github.com/hoanganhquanCS04/VinRobotics-slide-rag)
+### 🤖 [Slide RAG](https://github.com/hoanganhquanCS04/VinRobotics-slide-rag)
 
 Retrieval-Augmented Generation system for question answering over lecture / presentation slides.
 
