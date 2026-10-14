@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1A2980,100:26D0CE&text=Hoang%20Anh%20Quan&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%26%20Robotics%20%7C%20LLM%20%C2%B7%20RAG%20%C2%B7%20Agents&descAlignY=58&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1A2980,100:26D0CE&text=Hoang%20Anh%20Quan&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%26%20Robotics&descAlignY=58&descSize=16&v=2"/>
 
 <a href="https://github.com/hoanganhquanCS04">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&center=true&vCenter=true&width=900&color=26D0CE&lines=AI+Engineer+from+Hanoi%2C+Vietnam.;Computer+Vision+%26+Robotics.;Vision-Language+Models+%26+Embodied+AI.;Giving+LLM+Agents+eyes+and+hands.;Background+in+NLP%2C+RAG+%26+Multi-Agent+Systems."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&center=true&vCenter=true&width=900&color=26D0CE&lines=AI+Engineer+from+Hanoi%2C+Vietnam.;Computer+Vision+%26+Robotics.;Vision-Language+Models+%26+Embodied+AI.;Giving+LLM+Agents+eyes+and+hands.;Background+in+NLP%2C+RAG+%26+Multi-Agent+Systems.&v=2"/>
 </a>
 
 <br/>
@@ -232,6 +232,6 @@ I'm always open to discussing Computer Vision, Robotics, Embodied AI, LLM agents
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:26D0CE,100:1A2980"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:26D0CE,100:1A2980&v=2"/>
 
 </div>
