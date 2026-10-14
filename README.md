@@ -2,13 +2,13 @@
 
 <img width="100%" src="assets/header.svg"/>
 
-<a href="https://github.com/hoanganhquanCS04">
-<img src="assets/typing.svg"/>
-</a>
+<p align="center">
+<a href="https://github.com/hoanganhquanCS04"><img src="assets/typing.svg" width="600" alt="typing"/></a>
+</p>
 
-<br/>
-
-<img src="assets/views.svg"/>
+<p align="center">
+<img src="assets/views.svg" alt="Profile Views"/>
+</p>
 
 </div>
 
