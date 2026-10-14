@@ -1,10 +1,9 @@
-
-      <svg
+<svg
         width="854"
         height="230"
         xmlns="http://www.w3.org/2000/svg"
         xmlns:xlink="http://www.w3.org/1999/xlink"
-        style="z-index:1;position:relative"
+       
         viewBox="0 0 854 230"
       >
         <style>
@@ -18,25 +17,25 @@
             </defs>
         
       <g transform="translate(427, 115) scale(1, 1) translate(-427, -115)">
-        <path d="" fill="url(#linear)" opacity="0.4" >
+        <path d="M0 0L 0 150Q 213.5 190 427 160T 854 185L 854 0 Z" fill="url(#linear)" opacity="0.4" >
           <animate
               attributeName="d"
               dur="20s"
               repeatCount="indefinite"
               keyTimes="0;0.333;0.667;1"
-              calcmod="spline"
+              calcMode="spline"
               keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
               begin="0s"
               values="M0 0L 0 150Q 213.5 190 427 160T 854 185L 854 0 Z;M0 0L 0 175Q 213.5 190 427 170T 854 160L 854 0 Z;M0 0L 0 195Q 213.5 165 427 195T 854 160L 854 0 Z;M0 0L 0 150Q 213.5 190 427 160T 854 185L 854 0 Z">
           </animate>
         </path>
-        <path d="" fill="url(#linear)" opacity="0.4" >
+        <path d="M0 0L 0 165Q 213.5 210 427 180T 854 190L 854 0 Z" fill="url(#linear)" opacity="0.4" >
           <animate
             attributeName="d"
             dur="20s"
             repeatCount="indefinite"
             keyTimes="0;0.333;0.667;1"
-            calcmod="spline"
+            calcMode="spline"
             keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
             begin="-10s"
             values="M0 0L 0 165Q 213.5 210 427 180T 854 190L 854 0 Z;M0 0L 0 180Q 213.5 150 427 150T 854 170L 854 0 Z;M0 0L 0 175Q 213.5 155 427 180T 854 195L 854 0 Z;M0 0L 0 165Q 213.5 210 427 180T 854 190L 854 0 Z">
@@ -44,6 +43,5 @@
         </path>
       </g>
          <text text-anchor="middle" dominant-baseline="middle" x="50%" y="35%" class="text" style="fill:#ffffff;" stroke="#none" stroke-width="1" >Hoang Anh Quan</text>
-        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="58%" class="desc" style="fill:#ffffff;">AI Engineer | Computer Vision & Robotics</text>
+        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="58%" class="desc" style="fill:#ffffff;">AI Engineer | Computer Vision &amp; Robotics</text>
       </svg>
-    
