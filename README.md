@@ -226,6 +226,10 @@ I'm always open to discussing Computer Vision, Robotics, Embodied AI, LLM agents
 <img src="assets/b_facebook.svg"/>
 </a>
 
+<a href="https://www.instagram.com/hoanganhquancs04/">
+<img src="assets/b_instagram.svg"/>
+</a>
+
 </div>
 
 ---
