@@ -16,7 +16,7 @@
 
 # 👋 Hi, I'm Hoang Anh Quan
 
-I'm a **Computer Science** student at **Posts and Telecommunications Institute of Technology (PTIT)** and an **AI Engineer** based in Hanoi, Vietnam.
+I'm a **Computer Science Engineering** student at **Posts and Telecommunications Institute of Technology (PTIT)** and an **AI Engineer** based in Hanoi, Vietnam.
 
 I'm moving my focus toward **Computer Vision & Robotics** — building AI that can **see, reason and act** in the physical world. I bring hands-on experience in **LLMs, RAG and Agentic systems**, which I see as the reasoning layer for the next generation of robots.
 
@@ -41,7 +41,7 @@ I'm moving my focus toward **Computer Vision & Robotics** — building AI that c
 ```text
 Name        : Hoang Anh Quan
 Location    : Hanoi, Vietnam
-Education   : B.Sc. Computer Science @ PTIT
+Education   : Computer Science Engineering @ PTIT
 Program     : AI20K — Batch 03 (VinUni)
 Role        : AI Engineer
 Focus       : Computer Vision • Robotics • Embodied AI
