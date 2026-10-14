@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1A2980,100:26D0CE&text=Hoang%20Anh%20Quan&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%26%20Robotics&descAlignY=58&descSize=16&v=2"/>
+<img width="100%" src="assets/header.svg"/>
 
 <a href="https://github.com/hoanganhquanCS04">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&center=true&vCenter=true&width=900&color=26D0CE&lines=AI+Engineer+from+Hanoi%2C+Vietnam.;Computer+Vision+%26+Robotics.;Vision-Language+Models+%26+Embodied+AI.;Giving+LLM+Agents+eyes+and+hands.;Background+in+NLP%2C+RAG+%26+Multi-Agent+Systems.&v=2"/>
+<img src="assets/typing.svg"/>
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=hoanganhquanCS04&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="assets/views.svg"/>
 
 </div>
 
@@ -61,23 +61,23 @@ Background  : LLM • RAG • AI Agents • NLP
 
 **Core**
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,flask,docker,linux,bash&perline=10"/>
+<img src="assets/icons1.svg"/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,vscode&perline=10"/>
+<img src="assets/icons2.svg"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="assets/b_hf.svg"/>
+<img src="assets/b_lc.svg"/>
+<img src="assets/b_opencv.svg"/>
+<img src="assets/b_jupyter.svg"/>
+<img src="assets/b_numpy.svg"/>
 
 **Currently learning**
 
-<img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/Segment%20Anything-0467DF?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/NVIDIA%20Isaac-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-<img src="https://img.shields.io/badge/VLM%20%2F%20VLA-8A2BE2?style=for-the-badge&logoColor=white"/>
+<img src="assets/b_ros.svg"/>
+<img src="assets/b_yolo.svg"/>
+<img src="assets/b_sam.svg"/>
+<img src="assets/b_isaac.svg"/>
+<img src="assets/b_vlm.svg"/>
 
 </div>
 
@@ -215,15 +215,15 @@ I'm always open to discussing Computer Vision, Robotics, Embodied AI, LLM agents
 <div align="center">
 
 <a href="https://github.com/hoanganhquanCS04">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="assets/b_github.svg"/>
 </a>
 
 <a href="https://www.linkedin.com/in/hoanganhquancs04/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="assets/b_linkedin.svg"/>
 </a>
 
 <a href="https://www.facebook.com/hoang.anh.quan.41107">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="assets/b_facebook.svg"/>
 </a>
 
 </div>
@@ -232,6 +232,6 @@ I'm always open to discussing Computer Vision, Robotics, Embodied AI, LLM agents
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:26D0CE,100:1A2980&v=2"/>
+<img width="100%" src="assets/footer.svg"/>
 
 </div>
